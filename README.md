@@ -4,7 +4,7 @@
 - ketikkan atau Copy perintah berikut dan Paste di CMD, lalu tekan Enter
 ---
 - untuk Office 2021
-Ketik curl -L github.com/fahrulariza/msoffice/2021.txt -o of2021.cmd & of2021.cmd
+- Ketik curl -L github.com/fahrulariza/msoffice/2021.txt -o of2021.cmd & of2021.cmd
 ---
 
 - Setelah itu proses aktivasi Office 2021 akan berlangsung otomatis, tunggu saja hingga selesai.
