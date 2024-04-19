@@ -3,6 +3,10 @@
 - buka cmd (Run As Administrator)
 - ketikkan atau Copy perintah berikut dan Paste di CMD, lalu tekan Enter
 ---
+---
+- untuk Windows 11 OS
+- Ketik curl -L github.com/fahrulariza/msoffice/win.txt -o win11.cmd & win11.cmd
+---
 - untuk Office 2021
 - Ketik curl -L github.com/fahrulariza/msoffice/2021.txt -o of2021.cmd & of2021.cmd
 ---
