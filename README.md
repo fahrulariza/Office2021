@@ -1,8 +1,7 @@
 # Microsoft Office dan Windows OS
-**Aktivasi Office 2021 Tanpa Aplikasi 100% Work**
+**Aktivasi Office dan Windows OS Tanpa Aplikasi 100% Work**
 - buka cmd (Run As Administrator)
 - ketikkan atau Copy perintah berikut dan Paste di CMD, lalu tekan Enter
----
 ---
 - untuk Windows 11 OS
 - Ketik curl -L github.com/fahrulariza/msoffice/win.txt -o win11.cmd & win11.cmd
